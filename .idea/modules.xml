@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hollowredis.iml" filepath="$PROJECT_DIR$/.idea/modules/hollowredis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hollowredis-core/hollowredis-core.iml" filepath="$PROJECT_DIR$/.idea/modules/hollowredis-core/hollowredis-core.iml" group="hollowredis-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hollowredis-core/hollowredis-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hollowredis-core/hollowredis-core_main.iml" group="hollowredis-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hollowredis-core/hollowredis-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hollowredis-core/hollowredis-core_test.iml" group="hollowredis-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hollowredis-example/hollowredis-example.iml" filepath="$PROJECT_DIR$/.idea/modules/hollowredis-example/hollowredis-example.iml" group="hollowredis-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hollowredis-example/hollowredis-example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hollowredis-example/hollowredis-example_main.iml" group="hollowredis-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hollowredis-example/hollowredis-example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hollowredis-example/hollowredis-example_test.iml" group="hollowredis-example" />
+    </modules>
+  </component>
+</project>

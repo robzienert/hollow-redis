@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netflix.hollow:hollow:2.16.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.hollow/hollow/2.16.4/9e5f9e5caed88e4207526214383dbdcca32a9a99/hollow-2.16.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.hollow/hollow/2.16.4/5dbeefc5e7e7b2d0e9ffbb5fe41ae67f399a77a1/hollow-2.16.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

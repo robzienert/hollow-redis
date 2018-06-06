@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netflix.hollow:hollow-explorer-ui:2.16.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.hollow/hollow-explorer-ui/2.16.4/b96f723bdf8cc439e1e22caab9ddc0cfc1a545c/hollow-explorer-ui-2.16.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.hollow/hollow-explorer-ui/2.16.4/fb17c44bd49df34bb813aae2a8567d208978c945/hollow-explorer-ui-2.16.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

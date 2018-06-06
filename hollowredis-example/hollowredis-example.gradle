@@ -1,0 +1,7 @@
+dependencies {
+  compile project(":hollowredis-core")
+
+  compile "com.netflix.hollow:hollow-diff-ui:$hollowVersion"
+  compile "com.netflix.hollow:hollow-explorer-ui:$hollowVersion"
+  compile 'org.eclipse.jetty:jetty-server:9.4.2.v20170220'
+}
